@@ -40,5 +40,5 @@ end
 
 end
 
-book = Book.new("some title")
+book = Book.new("Some Title")
 book.turn_page
